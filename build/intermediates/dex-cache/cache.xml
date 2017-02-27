@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\TON\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\TON\Desktop\TabsWithSwipeGesture1\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_f01f40b0269315860d55591cded357599c24a4fe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TON\Desktop\TabsWithSwipeGesture1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8a0af3120ff7d7650941f570aefbc6c28ed1f041">
+        <dex dex="C:\Users\TON\Desktop\TabsWithSwipeGesture1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_e82774c96196e6e6b2929f6bebdb6d87e9a100b2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TON\Desktop\TabsWithSwipeGesture1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f347ee3e24f30a68f028caf121be4b550b6c8a66">
+        <dex dex="C:\Users\TON\Desktop\TabsWithSwipeGesture1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_72bda36e6628ba7248695af26f5d5a746b047d43\classes.dex" />
+    </item>
+
+</items>

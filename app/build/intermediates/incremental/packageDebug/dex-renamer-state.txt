@@ -1,0 +1,7 @@
+#Mon Feb 27 11:09:17 ICT 2017
+base.0=C\:\\Users\\TON\\Desktop\\TabsWithSwipeGesture1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_e82774c96196e6e6b2929f6bebdb6d87e9a100b2
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\TON\\Desktop\\TabsWithSwipeGesture1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_72bda36e6628ba7248695af26f5d5a746b047d43\\classes.dex
+base.1=C\:\\Users\\TON\\Desktop\\TabsWithSwipeGesture1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_72bda36e6628ba7248695af26f5d5a746b047d43
+file.0=C\:\\Users\\TON\\Desktop\\TabsWithSwipeGesture1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_e82774c96196e6e6b2929f6bebdb6d87e9a100b2\\classes.dex
